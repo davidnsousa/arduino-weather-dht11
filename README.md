@@ -1,2 +1,5 @@
-# arduino-weather-dht11
-Weather station with Arduino (nano every + DHT11 + LCD I2C)
+#  Arduino weather station
+
+Main components: arduino nano every + DHT11 module + LCD 16x2 I2C
+
+![alt text](scheme.png)
